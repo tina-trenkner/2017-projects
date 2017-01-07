@@ -16,4 +16,7 @@ Here is a list of projects I would like to take on as personal challenges in 201
 
 1. Create a simple Facebook chatbot, using Washington Post Feels as a model.
 
+## Free Code Camp
+1. Earn the front-end developer certificate. 
+
 <em>Have any project ideas for a budding news developer? Please submit a PR!</em>
