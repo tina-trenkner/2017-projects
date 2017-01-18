@@ -5,6 +5,7 @@ Here is a list of projects I would like to take on as personal challenges in 201
 ## Typocountr
 
 1. Add a function to Typocountr where the user can take a screenshot of the page with a typo.
+ // Note to self: this is something to do with canvas
 2. Add a function that allows the user to highlight the typo, then take a screenshot.
 
 ## Quote Generator (from Free Code Camp)
